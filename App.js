@@ -12,6 +12,8 @@ import { createStore } from 'redux';
 import { Provider } from 'react-redux';
 import AppNavigator from './src/navigation/AppNavigator';
 
+const test = 'test';
+
 const initialState = {
     counter: 0
 }
